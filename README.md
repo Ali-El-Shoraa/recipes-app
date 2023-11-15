@@ -22,6 +22,7 @@ Users should be able to:
 - You can search for the recipe, whether it is a letter or a word
 - There are abbreviations for the foods of some countries
 - Once you click on the image, you will be able to see the ingredients and information about the recipe
+- There are more than 5,000 recipes you can search for
 
 ### Links Live Site
 
