@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 function Category() {
   return (
     <div className="container px-4 mx-auto flex items-center justify-center gap-3 my-8">
-      <NavLink className="NavLink" to={"/recipes-app/cuisine/african"}>
+      <NavLink className="NavLink" to={"/recipes-app/cuisine/Thai"}>
         <h4>Thai</h4>
       </NavLink>
 
